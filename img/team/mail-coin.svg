@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<defs>
+		<image width="35" height="35" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAACb0lEQVRYhe2YzU7bQBDHfYoEh16AIrWXHjhUPAnHXniZ5gV4Aw6op154iV1DaNIgoUi7weSryYxtcJJaUXDAsaKAtocq2zgJ/gi220NHmovtlX77n//uelZR/kdCcWVZm4Trh5TBKWFYoRwMynBMGY4pB4MwrFAGp4Trh1eWtZkKRKHV3SFVPCEMXcJAREt0SRVPCq3uTiIQJdPcUBnmKYdRdAh/Ug4jyvBzyTQ31ga5rN1uUY7FdSGWoBheqA1rOzaIyuEjZQhJgcjk2C5o+n5kkFLDfE8Y3iYO8iebkRQqtwZvCAeeIshMoVKohwiHo9RBJBAcveyTGnygHL2sYChHr1zt766EoRy/ZKaKTP14CUTTRI5wcLKHgXtNEzl/iTQ4CBr0MJ6IdeNhPAkEUjU48BuX6cdBA4o1Uwwfvdggw0dPFGtmvFJRDmdRZL0xbDF9eg6FmD49ixvDjmhkOFuEqQcNsB1XzvD8Whe2474IYjuuOL/WpaI/HTcMpr5QJrgPGjCbbac3lM849IU3mUoIbzIVHPryfac3lCqGmTg2zLwhK+2uVKl5NxDNu4FUo9LuLhk+FkxYmVaFYTsSYAZm2M7Kb2OVKczAQUbt9Ia+kqwB4zdw2NJ+bcRa2mGbXpowS5uepolckIlTg+HgLB0HYaVK7zhYcVAqiqKUq/3drH8hij96b1fCKMo/9HOlKL9bE8KxlIEq3yO1LmrD2iYMmimCtGK1LKpm7hGO7cRBGIKqmXuRQeYVogwvElSkeFm73YoN4oNimKcMx+tDwEhlmH8VxHx8qxvv/nrjvxhRrkQIx68qh0+pXYlkEb8A7BqSHCz3BYMAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Team">
+		<g id="1">
+			<g id="Contacts">
+				<use id="Mail icon" href="#img1" transform="matrix(1,0,0,1,-2,-2)"/>
+			</g>
+		</g>
+	</g>
+</svg>

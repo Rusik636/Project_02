@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<defs>
+		<image width="35" height="35" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAACuElEQVRYhe2YzU7bQBSFs0KCRTdAkdpNFyyqPgnLbniZ8gK8AQvUVTe8xIz5aVIioUgzwQ04DffaJk7SKAnBEMtyotsFCnWI7ZnQhHbRI92VNTOf7jkz9jiX+6856czzVpi0t7mAAyawxCU4XOCACxxwCQ4TWOICDpi0t888b2UhEMfVxjor4z4TeM8EkF7hPSvj/nG1sT4XiILrLhsCd7iEW32IyeISbrnATwXXXX42SLFyvcol5p8LMQUl8MS49NZmBjEkvOcCYV4gjyWxdmzaH7RBCpfuWybweu4gv8vS6tBptfOKSZALBBl3qKDMEJOwu3CQRyDYTc9JBd5xicFLwXCJwWm5tZEIwyV+frGuPJa9NwVimrTEJPSzBuYrbubE+YpLP/v3FA1H5A9CsuodYgJIQouKVj1t3I1p0tKkRSZsqRaKhqPUSY/ObYqGI0pS7y6go3M7dW7DhK3J4Ap7LwumVGsQEVE0HJGE1tTzq2YvEYSIKAijxDGpVnEJh6rOxNX1AxKxBXp3QSrMd6etCDIcPoW5UIXNafcTF+v6QapFRESlWkMFc/HEJrhR2eQPwtQFs5SVl3GIZ4JhAigIo5lBgjDS2eKTMDo2Fa16ph1J8rq+EmbKJlWA47mZBUh1NiUGWLW1VSFOktPu61g0vbVVh168rHpHGWZ/EOoEl5hIOPRMk5Z0QszEw5njdf25gDAJ/anXgcqqolUnp92nrp9+uBERXTV7+iBJFo11Wm5tZH1CjIHiFgVhRL27gKx6Ryusk8HFIP+j+ToRJpf7hz6ucrmHqwmTWFg0CJf4TevqYlx6a0yAtUCQ6kxXFsN0N5nE2txBBIJhupvaIPEOcYEnc+xIvli5Xp0ZZAJK4A4XOHg+BNwaAnf+CCKurxfOm79+8X8qnV8iTOIXQ8LHhf0SeQn9AkiFiU3lJJijAAAAAElFTkSuQmCC"/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Team">
+		<g id="1">
+			<g id="Contacts">
+				<use id="Twitter icon" href="#img1" transform="matrix(1,0,0,1,-2,-2)"/>
+			</g>
+		</g>
+	</g>
+</svg>

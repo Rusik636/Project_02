@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<defs>
+		<image width="35" height="35" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAACCElEQVRYhe3YvW4TQRAA4K0sJQVNEiJBQ5EC8SQpafIy+AXyBikiKpq8xM4FJza2FEWaMSv/Ec2cz1xIAXKMYisK6CgQxj474nZvL3HBSNOuPs3M7c8p9T88xVkcr2sK9wD5SKOcA3EfUMaAMgbivkY5B+QjTeHeWRyvF4Ko9C63dFMONcqNRk6ypdzophxWepdbXhC1KFoLUMpAPMqOmE8gHgHKm1oUrTlDGq3BBpBUXRELKJSToBNvWkMC4peAwr4g0yS5qJjwVWZIrRM91ygD75C/2c1UoXrv6xNNTAVC/lSo9s8Z0sT7hUOmIN6/f05a/AJIJg+FAZJJvXm1vRQDJG9tF3z/MUzib9+T2bBbIzxYgBiTlDTxtS0mDbHH8NCYpDTfIsO7LqW++/Fzimh0Pzu1KzC8Oz+4GB64LJSjIve3CoiPHwsDxMdpTNsVkQ7bdgFxO9UmHvrATG7vXKozzIXxOzMpjG2bPM9MO41ZnQFeqU/bddPzgVnY9IxJStphiHNjiK8XjgPXVuWvzJKDUiml6s2rbdsrRB4MkEyqn748XYpRaoUuV0r9fppoklrRECD5kOnpEnTiTY3cLRDSs3qyBCba0SQX3iEoHJhoJzNktkKAcuKxItVGa7BhDZlDoZQBZeyO4FGAUs6FmI3Tdv/Zoz/805Hll4gmeRcQvy7sl8hDxC/osVjZd77ubAAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Team">
+		<g id="1">
+			<g id="Contacts">
+				<use id="Fb icon" href="#img1" transform="matrix(1,0,0,1,-2,-2)"/>
+			</g>
+		</g>
+	</g>
+</svg>

@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+	<defs>
+		<image width="35" height="35" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACMAAAAjCAYAAAAe2bNZAAACWUlEQVRYhe2YvW4aQRDHr0KyizS2YylpUriI8iQu0/hlwgv4DVxYqdL4JXbPxoGA5CDtkOPTeObu4IAgB4MDJwtbmyIKgePjFm7PafKXplndnH6a+e+nYfyXJl153jYD+4gLPGOC8hzQ4YJGXNCIAzpMUJ4LPGNgH1153nYsEKlaa48V6JQJGjKBUi1oyAp0mqq19rRAZFx3yxSU5IADdYjZ4IADLuhDxnW3NgbJlRo7HCi9KcQclKBLs+Ltrg1iAr7lglAXyCSA6inLfqcMkqm4r5mghnaQv1FVqlC2dvuCAUKMIH8qlAn1EAM8XvaDm3ZP/rj3pdPtawLC4+U+KeEbDuQvSsxVm3JaRacb3dBAfrbQ2V8Iw4E+LksMwgB2NLXMPpkDsSyZYID9VYmAHXnT7mmpylTcWZZMzLbIwkMdP7/4Zsuv1y0psCNz1aZSjmnh4axxhX0SljSt4Jj/MJZFpyuD+t4frt8qDngeBWaVqs3bECPjeRCmHBXmfvQg8/WWLDpdOX58moz3fvphMOVAm/AuKky65E7G8/XWZHz8+BRqYu0wKt8rweho06Ywc23SYeAIMLMGjjq1o7UpMLVVFr24YOYWPcuSiTATxwID2J/bDlRaFU9lFmyUhmEY2UJnf9kRIo7gQH76uv1yIYxhrD5caY9VhyvD+H01YUCZZ6jKF6Wri1nxdpnAaowgtbWuLKblHjCgunYQQWha7oEyyHSFuKBLjRVJ50qNnbVBZqAEJbmg0eYQODAFJSNBTOtz2Xn1zy/+Qak8iTCgTybg+9ieRJ5DvwB7kHvUeWRa/AAAAABJRU5ErkJggg=="/>
+	</defs>
+	<style>
+		tspan { white-space:pre }
+	</style>
+	<g id="Team">
+		<g id="1">
+			<g id="Contacts">
+				<use id="LinkedIn icon" href="#img1" transform="matrix(1,0,0,1,-2,-2)"/>
+			</g>
+		</g>
+	</g>
+</svg>
